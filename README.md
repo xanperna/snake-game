@@ -1,4 +1,4 @@
-written in python using pygame. enjoy and please make cool changes and send to me. God bless.
+written in python using pygame. please make cool changes and send to me. God bless.
 
 here are some screenshots of the game currently:
 
